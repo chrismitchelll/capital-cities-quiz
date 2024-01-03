@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\bin\Debug\net8.0\ConsoleQuiz.exe
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\bin\Debug\net8.0\ConsoleQuiz.deps.json
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\bin\Debug\net8.0\ConsoleQuiz.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\bin\Debug\net8.0\ConsoleQuiz.dll
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\bin\Debug\net8.0\ConsoleQuiz.pdb
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.dll
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\refint\ConsoleQuiz.dll
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.pdb
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ConsoleQuiz.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Coding\MiniProjects\c#-quiz\C#Quiz\ConsoleQuiz\obj\Debug\net8.0\ref\ConsoleQuiz.dll
